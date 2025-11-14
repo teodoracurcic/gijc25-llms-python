@@ -10,12 +10,12 @@ Here you will find practical exercises ranging from **cleaning datasets**, **map
 
 ## Notebook Overview
 
-### [Merge and Clean Data]
+### Merge and Clean Data
 - **Goal:** Learn to merge multiple CSV files, clean inconsistent data, and prepare datasets for analysis.
 - **Focus:** Using Python and ChatGPT to simplify tasks like standardizing column names, handling missing values, and understanding data.
 - **Takeaway:** Even large datasets (tens of thousands of rows) can be cleaned and prepared in a few lines of code.
 
-### [Create a Map]
+### Create a Map
 - **Goal:** Organize and visualize a real-world dataset of **pirate attacks worldwide** on an interactive map.
 - **Focus:**  
   - Prepare data for mapping  
@@ -24,7 +24,7 @@ Here you will find practical exercises ranging from **cleaning datasets**, **map
   - Mobile-friendly display with popups and dynamic legend  
 - **Takeaway:** Step-by-step preparation and mapping make analysis much easier.
 
-### [Scrape House Rental Listings]
+### Scrape House Rental Listings
 - **Goal:** Learn how to **extract real data automatically from websites** using Python.
 - **Focus:**  
   - Understand HTML structure  
